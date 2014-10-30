@@ -2,7 +2,7 @@
 
 # http://www.pythonchallenge.com/pc/def/linkedlist.php
 # Iterate through list of nothings.  Prompt for a starting nothing, and
-# iterate through them until failure.  On failure, print page text.
+# iterate through them until failure.  On failure, print page text. 
 
 import urllib
 import re
